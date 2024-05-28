@@ -1,0 +1,17 @@
+.credits-buy-low-resolutions{
+    max-width: 100%;
+}
+
+.swiper{
+    max-width: 100%;
+}
+
+@media(max-width: 576px){
+    .swiper-pagination{
+        bottom: 3px !important;
+    }
+
+    .swiper-pagination-bullet-active{
+        background-color: #FFCF2D !important;
+    }
+}

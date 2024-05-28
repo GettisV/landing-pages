@@ -1,0 +1,15 @@
+{
+  "name": "adcombo",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "npx parcel src/index.html --open",
+    "build": "npx parcel build src/index.html"
+  },
+  "author": "Gettis",
+  "license": "ISC",
+  "description": "adcombo test case",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.12.0",
+    "parcel": "^2.12.0"
+  }
+}
